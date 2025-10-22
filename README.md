@@ -32,3 +32,106 @@ During this phase, software engineers, project managers, and clients collaborate
 5. Supports Better Design Decisions:A detailed analysis provides a foundation for creating scalable, user-friendly, and maintainable systems.
 
 In short, requirement analysis acts as the blueprint of the software project guiding every stage from design and implementation to testing and deployment.
+
+
+
+KEY ACTIVITIES IN REQUIREMENT ANALYSIS
+
+
+Key Activities in Requirement Analysis
+
+The Requirement Analysis process involves several key activities that ensure all software requirements are accurately identified, understood, and validated before development begins.  
+
+Below are the five main activities involved:
+
+Requirement Gathering
+- Collecting information from stakeholders, users, and clients to understand their needs and expectations.  
+- Using methods like interviews, surveys, observations, and brainstorming sessions.  
+- Ensures that all necessary data about the system’s functionality and constraints are obtained.
+
+Requirement Elicitation
+- Refining gathered information to clearly define the user’s actual needs.  
+- Involves engaging stakeholders to uncover hidden or unclear requirements.  
+- Helps bridge the communication gap between users and developers.
+
+Requirement Documentation
+- Organizing and recording all requirements in a structured format such as a Software Requirement Specification (SRS) document.  
+- Provides a formal reference that guides the design, development, and testing teams.  
+- Ensures that no requirement is missed or misunderstood.
+
+Requirement Analysis and Modeling
+- Analyzing requirements to identify conflicts, redundancies, and feasibility.  
+- Using tools and models (like use case diagrams, flowcharts, and data models) to represent system behavior and structure.  
+- Helps developers and stakeholders visualize the system before implementation.
+
+Requirement Validation
+- Reviewing the documented requirements with stakeholders to confirm accuracy and completeness.  
+- Ensures that each requirement aligns with the business objectives and user expectations.  
+- Detects and corrects any inconsistencies early in the development cycle.
+
+
+Together, these activities ensure that the software project is built on a clear, validated, and comprehensive understanding of user needs, reducing errors and improving overall project success.
+
+
+
+ TYPES OF REQUIREMENTS
+
+  In the context of the hotel booking system, requirements are categorized into two main types: Functional Requirements and Non-Functional Requirements. Below are the definitions and examples for each:
+
+
+
+  Functional Requirements
+
+  Functional requirements define the specific behaviors, features, and interactions that the system must support. These requirements describe **what the system should do** to fulfill user needs and business objectives.
+
+  Examples
+
+- Hotel Management Service:  
+  - Hotel managers can register and manage hotel details, including room types, pricing, and availability.  
+  - Managers can update room information and monitor booking statuses.  
+  - The system supports CRUD (Create, Read, Update, Delete) operations for room data.  
+  - Managers receive notifications for new bookings and cancellations.
+
+- Customer Service (Search + Booking):  
+  - Customers can search for hotels based on location, dates, and amenities.  
+  - The system displays available rooms with real-time pricing and availability.  
+  - Customers can book rooms and receive instant booking confirmations.  
+  - The platform supports multiple payment methods and processes transactions securely.
+
+- View Booking Service:  
+  - Users can view their current and past bookings.  
+  - The system allows users to modify or cancel existing reservations.  
+  - Booking details, including payment status and check-in/check-out times, are accessible.
+
+
+ Non-Functional Requirements
+
+Non-functional requirements specify the **quality attributes** and constraints of the system. They define **how** the system performs its functions and ensure the system meets certain standards of performance, reliability, and usability.
+
+Examples:
+
+- Performance:  
+  - The system should handle a high volume of concurrent users without significant degradation in response time.  
+  - Search queries should return results within 2 seconds.
+
+- Scalability:  
+  - The architecture must support horizontal scaling to accommodate increased user load.  
+  - The system should efficiently manage a growing number of hotel listings and bookings.
+
+- **Availability**:  
+  - The system should be available 99.9% of the time, with minimal downtime for maintenance.  
+  - Failover mechanisms should be in place to ensure continuous service during outages.
+
+- **Security**:  
+  - User data, including personal and payment information, must be encrypted and stored securely.  
+  - The system should comply with relevant data protection regulations (e.g., GDPR, PCI-DSS).
+
+- **Usability**:  
+  - The user interface should be intuitive and accessible across various devices.  
+  - Users should be able to complete booking processes with minimal steps and clear guidance.
+
+
+These requirements collectively ensure that the hotel booking system is functional, reliable, and user-friendly, meeting both user expectations and business goals.
+
+
+ 
