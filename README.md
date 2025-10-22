@@ -134,4 +134,38 @@ Examples:
 These requirements collectively ensure that the hotel booking system is functional, reliable, and user-friendly, meeting both user expectations and business goals.
 
 
- 
+## 📊 Use Case Diagrams
+
+**Use Case Diagrams** are a type of UML (Unified Modeling Language) diagram that visually represents the interactions between users (actors) and a system. They help illustrate **who uses the system** and **what functionalities the system provides**.  
+
+### 🔹 Benefits of Use Case Diagrams
+- Provides a high-level overview of system functionality.  
+- Helps communicate requirements to stakeholders clearly.  
+- Identifies all actors and interactions, reducing the chance of missing features.  
+- Serves as a foundation for further system design and development.  
+
+### 🔹 Actors in the Booking System
+- **Guest / Customer**: Searches for hotels, makes bookings, cancels or modifies reservations, leaves reviews.  
+- **Hotel Manager / Host**: Manages hotel listings, updates room availability, monitors bookings.  
+- **Payment Service**: Processes customer payments securely.  
+- **System Administrator**: Oversees the platform, manages user accounts, and ensures system integrity.  
+
+### 🔹 Use Cases
+- Search Hotels  
+- Filter Hotels by Price, Location, Amenities  
+- View Hotel Details  
+- Make Booking  
+- Cancel or Modify Booking  
+- Leave Review and Rating  
+- Manage Hotel Listing  
+- Process Payment  
+- Generate Booking Reports  
+
+### 🔹 Use Case Diagram
+Below is the use case diagram for the booking system:
+
+![Booking System Use Case Diagram](alx-booking-uc.png)
+
+> **Note:** The diagram was created using tools like **Draw.io** and exported as `alx-booking-uc.png`. It visually represents the actors and their interactions with the booking system.
+
+
