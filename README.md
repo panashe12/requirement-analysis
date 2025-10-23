@@ -69,7 +69,7 @@ Requirement Validation
 Together, these activities ensure that the software project is built on a clear, validated, and comprehensive understanding of user needs, reducing errors and improving overall project success.
 
 
-**TYPES OF REQUIREMENTS **
+**Types of Requirements**
 
   In the context of the hotel booking system, requirements are categorized into two main types: Functional Requirements and Non-Functional Requirements. Below are the definitions and examples for each:
 
