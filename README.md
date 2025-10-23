@@ -156,10 +156,11 @@ These requirements collectively ensure that the hotel booking system is function
 - Process Payment  
 - Generate Booking Reports  
 
+
 ### 🔹 Use Case Diagram
 Below is the use case diagram for the booking system:
 
-![Booking System Use Case Diagram](alx-booking-uc.png)
+![B<img width="1024" height="1024" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/add1cb7d-6650-4b43-830a-1e602104e2b2" />](alx-booking-uc.png)
 <img width="1024" height="1024" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/add1cb7d-6650-4b43-830a-1e602104e2b2" />
 
 > **Note:** The diagram was created using tools like **Draw.io** and exported as `alx-booking-uc.png`. It visually represents the actors and their interactions with the booking system.
