@@ -13,9 +13,7 @@ The purpose of this repository is to outline how project requirements are identi
 
 
 
-WHAT IS REQUIREMENT ANALYSIS?
-
- What is Requirement Analysis?
+**What is Requirement Analysis?**
 
 Requirement Analysis is a critical phase in the Software Development Life Cycle (SDLC) where the needs and expectations of end-users and stakeholders are gathered, analyzed, and documented.  
 
