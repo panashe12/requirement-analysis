@@ -21,7 +21,7 @@ It involves defining what the software should do and how it should perform, ensu
 
 During this phase, software engineers, project managers, and clients collaborate to identify the functional (what the system should do) and non-functional (how the system should perform) requirements of the project.  
 
- Importance of Requirement Analysis in SDLC
+**Why is Requirement Analysis Important?**
 
 1. Clarity of Objectives: Helps ensure that developers and clients share a common understanding of the software’s goals.  
 2. Reduces Development Errors: By identifying requirements early, potential issues or misunderstandings can be addressed before coding starts.  
@@ -33,10 +33,8 @@ In short, requirement analysis acts as the blueprint of the software project gui
 
 
 
-KEY ACTIVITIES IN REQUIREMENT ANALYSIS
+**KEY ACTIVITIES IN REQUIREMENT ANALYSIS**
 
-
-Key Activities in Requirement Analysis
 
 The Requirement Analysis process involves several key activities that ensure all software requirements are accurately identified, understood, and validated before development begins.  
 
@@ -71,8 +69,7 @@ Requirement Validation
 Together, these activities ensure that the software project is built on a clear, validated, and comprehensive understanding of user needs, reducing errors and improving overall project success.
 
 
-
- TYPES OF REQUIREMENTS
+**TYPES OF REQUIREMENTS **
 
   In the context of the hotel booking system, requirements are categorized into two main types: Functional Requirements and Non-Functional Requirements. Below are the definitions and examples for each:
 
@@ -132,7 +129,7 @@ Examples:
 These requirements collectively ensure that the hotel booking system is functional, reliable, and user-friendly, meeting both user expectations and business goals.
 
 
-## 📊 Use Case Diagrams
+##  Use Case Diagrams
 
 **Use Case Diagrams** are a type of UML (Unified Modeling Language) diagram that visually represents the interactions between users (actors) and a system. They help illustrate **who uses the system** and **what functionalities the system provides**.  
 
